@@ -43,13 +43,15 @@ un sensor de agua es una
  La combinación de estas señales permite representar con precisión la dirección, intensidad y
  eventos de interacción del joystick.
 </p>
-##Materiales 
+
+## Materiales 
 1. Arduino
 4. Resistencias
 6. Jumpers Macho-Macho
 4. Leds
 4. Jumpers Macho-Hembra
 1. Joystick 
+
 ##Conexion
 ![Captura de pantalla 2024-12-10 182644](https://github.com/user-attachments/assets/46edb653-f347-4267-9b68-a6f100346064)
 
@@ -61,6 +63,7 @@ El joystick es un ejemplo versátil de sensor que combina mecánica y electróni
 </p>
 
 ##SENSOR TOUCH
+
 <p>
 en Arduino se refiere a dispositivos que detectan el toque o la proximidad de un objeto (generalmente un dedo humano) sin necesidad de presión mecánica significativa. Estos sensores convierten el toque
  en una señal eléctrica que puede ser
