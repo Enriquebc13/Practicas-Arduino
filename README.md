@@ -28,7 +28,9 @@ un sensor de agua es una
  aplicaciones como sistemas de riego,
  control de inundaciones
 </p>
---
+
+
+'''
 int activador = A5;                 
 int ledVerde = 8;         
 int ledAmarillo = 9;    
@@ -75,5 +77,4 @@ void loop() {
     digitalWrite(ledVerde, LOW);
     digitalWrite(ledAmarillo, LOW);
   }
-}
---
+}'''
