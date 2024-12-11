@@ -10,7 +10,7 @@
  usan comúnmente en aplicaciones industriales, domésticas y agrícolas
 </p>
 
-###Materiales
+### Materiales
 1.- Sensor de agua 
 2.- Arduino 
 3.- Cables de conexión 
@@ -29,7 +29,7 @@ un sensor de agua es una
  control de inundaciones
 </p>
 
-##JOYSTICK
+## JOYSTICK
 <p>
  La lógica del joystick se basa en la detección de la posición angular o desplazamiento de sus
  palancas:
@@ -52,7 +52,8 @@ un sensor de agua es una
 4. Jumpers Macho-Hembra
 1. Joystick 
 
-##Conexion
+## Conexion
+
 ![Captura de pantalla 2024-12-10 182644](https://github.com/user-attachments/assets/46edb653-f347-4267-9b68-a6f100346064)
 
 <p>
@@ -62,10 +63,9 @@ El joystick es un ejemplo versátil de sensor que combina mecánica y electróni
  convierte en un elemento esencial para aplicaciones donde la interacción humana es crucial
 </p>
 
-##SENSOR TOUCH
-
+## SENSOR TOUCH
 <p>
-en Arduino se refiere a dispositivos que detectan el toque o la proximidad de un objeto (generalmente un dedo humano) sin necesidad de presión mecánica significativa. Estos sensores convierten el toque
+En Arduino se refiere a dispositivos que detectan el toque o la proximidad de un objeto (generalmente un dedo humano) sin necesidad de presión mecánica significativa. Estos sensores convierten el toque
  en una señal eléctrica que puede ser
  interpretada por un microcontrolador.
 </p>
