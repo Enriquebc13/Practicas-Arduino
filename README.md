@@ -188,12 +188,32 @@ Aqui se implementa un sistema de alerta utilizando un Arduino, un sensor (como u
 ![Captura de pantalla 2024-12-10 200738](https://github.com/user-attachments/assets/60938c63-b8e6-47a1-b03e-105a06c53086)
 
 ## SERVO MOTOR
+<p>
+ El sistema estará compuesto por un sensor ultrasónico, encargado de detectar
+ la presencia de un vehículo, y un servomotor, que controlará el movimiento de la pluma.
+ El objetivo es crear un mecanismo eficiente que permita levantar o bajar la pluma de manera automática, basado en la  proximidad del vehículo. Durante esta presentación,
+ explicaremos el funcionamiento de cada componente, eldiseño del sistema, y cómo se integran para lograr una solución funcional y práctica
+</p>
 
+## Conexion
+-  SENSOR ULTRASÓNICO
+ Envía pulsos periódicamente.
+ Si la distancia detectada es menor a un umbral definido
+ (por ejemplo, 10 cm), activa el servomotor.
 
+-  ACTUADOR SERVOMOTOR
+ Recibe una señal del Arduino para cambiar su ángulo:
+ 90° o más: Pluma levantada.
+ 0°: Pluma bajada
 
+![Captura de pantalla 2024-12-10 204130](https://github.com/user-attachments/assets/ce191cdc-0df3-4ddb-bd58-785044ee9798)
 
-
-
-
-
-
+<p>
+El sistema de pluma de estacionamiento desarrollado con un
+ sensor ultrasónico y un servomotor demuestra la capacidad
+ de Arduino para integrar sensores y actuadores en
+ aplicaciones prácticas. El sensor ultrasónico permite una
+ detección precisa de objetos, lo que garantiza la activación
+ del servomotor solo cuando es necesario, mejorando la
+ eficiencia y seguridad del sistema. 
+</p>
