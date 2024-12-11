@@ -84,7 +84,7 @@ En Arduino se refiere a dispositivos que detectan el toque o la proximidad de un
 -  Conecta el pin VCC del sensor táctil al pin 5V 
 - Conecta el pin GND del sensor táctil al pin GND
 
-##Diagrama de Conexion
+## Diagrama de Conexion
 
 ![Multiple LEDs   Breadboards With Arduino in Tinkercad](https://github.com/user-attachments/assets/458c7e30-e4b6-4965-9938-1ab92e04f4dd)
 
