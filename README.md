@@ -134,6 +134,7 @@ Haremos un puente en cada patita larga de los leds asia el negativo de la protob
 En la pata corta una resistencia seguido de los cables de los pines 2-7
 Al igual haremos un puente del negativo y positivo del sensor a los mismos de la protoboard
 </p>
+
 ![Captura de pantalla 2024-12-10 193513](https://github.com/user-attachments/assets/98b0ec20-5fbd-4fe2-9037-c66ee5c091d2)
 
 <p>
