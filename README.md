@@ -52,6 +52,7 @@ un sensor de agua es una
 1. Joystick 
 ##Conexion
 ![Captura de pantalla 2024-12-10 182644](https://github.com/user-attachments/assets/46edb653-f347-4267-9b68-a6f100346064)
+
 <p>
 El joystick es un ejemplo versátil de sensor que combina mecánica y electrónica para ofrecer un control
  intuitivo y preciso. Su funcionamiento se basa en principios simples de conversión analógica o digital, lo que
@@ -65,7 +66,6 @@ en Arduino se refiere a dispositivos que detectan el toque o la proximidad de un
  en una señal eléctrica que puede ser
  interpretada por un microcontrolador.
 </p>
-
 
 
 
