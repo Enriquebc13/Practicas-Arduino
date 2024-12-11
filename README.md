@@ -11,12 +11,12 @@
 </p>
 
 ### Materiales
-1.- Sensor de agua 
-2.- Arduino 
-3.- Cables de conexión 
-4.- Protobard 
-5.- Leds
- 6.- Resistencias
+1. Sensor de agua 
+2. Arduino 
+3. Cables de conexión 
+4. Protobard 
+5. Leds
+ 6. Resistencias
 
 ### Conexion
 ![Captura de pantalla 2024-12-10 181211](https://github.com/user-attachments/assets/a3d5d487-5c9d-4a5b-b35e-1060414a2878)
