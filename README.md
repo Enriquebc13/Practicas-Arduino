@@ -16,7 +16,7 @@
 3. Cables de conexión 
 4. Protobard 
 5. Leds
-6. Resistencias
+
 
 <p>
 - ledVerde 
